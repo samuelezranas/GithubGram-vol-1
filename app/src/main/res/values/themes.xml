@@ -1,9 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.RestaurantReview" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/orange</item>
-        <item name="colorAccent">@color/mint</item>
+    <style name="Base.Theme.GitGram" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--Color-->
+        <item name="colorPrimary">@color/magenta</item>
+        <item name="colorPrimaryDark">@color/magentaShadow</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="colorOnPrimary">@color/sand</item>
+        <item name="backgroundColor">@color/white</item>
+
     </style>
 
-    <style name="Theme.RestaurantReview" parent="Base.Theme.RestaurantReview" />
+    <style name="Theme.GitGram" parent="Base.Theme.GitGram" />
 </resources>

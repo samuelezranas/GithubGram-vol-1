@@ -1,8 +1,12 @@
 <resources>
-    <string name="app_name">Restaurant Review</string>
-    <string name="title">Judul</string>
-    <string name="description">Description</string>
-    <string name="review">Review</string>
-    <string name="write_your_review_here">Tulis review-mu mengenai tempat ini</string>
-    <string name="send">Kirim Review</string>
+    <string name="app_name">GitGram</string>
+    <string name="splash_desc">GithubGram</string>
+    <string name="username">Username</string>
+    <string name="input_username">Enter somebody username</string>
+    <string name="name_user">Username</string>
+    <string name="fill_username">\@%1$s</string>
+    <string name="fill_followers">%1$d Followers</string>
+    <string name="fill_following">%1$d Following</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
 </resources>

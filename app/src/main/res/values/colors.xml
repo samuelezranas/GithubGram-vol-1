@@ -2,7 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="orange">#EF6327</color>
-    <color name="mint">#A4E8DB</color>
-    <color name="salmon">#EFB06A</color>
+    <color name="sand">#FFF8B8</color>
+    <color name="blue">#1a4f76</color>
+    <color name="magenta">#D194B1</color>
+    <color name="magentaShadow">#6B2E4B</color>
 </resources>
